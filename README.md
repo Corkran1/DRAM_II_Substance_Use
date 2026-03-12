@@ -29,7 +29,7 @@ Section 3.0: Instructions for Running  DRAM
 
 Step 1
 
-Navigate to the folder, within section_3.0_codes, then find corresponding to the specific nursing unit and patient subgroup (substance-using or non-substance-using) that you wish to analyze.
+Navigate to the folder, within section_3.0_codes, then find corresponding to the specific nursing unit (substance-using amd non-substance-using populations are incldued in file ) that you wish to analyze.
 
 Step 2
 

@@ -1,5 +1,6 @@
 For explanitions related to parameters, see the section 2 folder called "Data Dictionary"
 
-For codes to run DRAM to replicate this dataset, see the section 3 folder called "Codes". 
+For codes to run DRAM to replicate this dataset, see the section 3 folder called "Codes". All you have to do is download the code for your prefered nursing unit and input your own data for 
+the given compartments. This compartments are described by parameters, who description can be found in section 2 read me file 
 
 Note: Codes section is organized by nursing unit type, which are inpatient units, critical care units, and specialized care units.

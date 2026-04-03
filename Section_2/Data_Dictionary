@@ -1,6 +1,6 @@
 Data Dictionary 
 
- ODE  and DRAM Paramters 
+Section 1:  ODE  and DRAM Paramters 
 
 Paramter Name             Description                                                                        Baseline Value Use din Study Simulation   
 
@@ -15,5 +15,15 @@ Paramter Name             Description                                           
 𝛿                   HCW decontaimation rates.                                                                                0.1 
 𝜆_N                 Transmision rates for substance using patients.                                                          0.01
 𝜆_𝐹                 Transmission rates for susbtance free patients.                                                          0.01
+
+Section 2: Compartemental Description 
+
+Compartmnet                                Description 
+Weekly Susceptible                         Represents the number of individuals who are at risk of becoming infected during a given week but are not currently infected or colonized. 
+Weekly Infected Admitted                   Represents the number of indivdiuals who are admitted to the hospital during a given week and already infected or colonized at the time of admission.
+Weekly Susceptible Admitted                Represents the number of individuals who are admitted to the hospital during a given week and are not infected or colonized at time of admission. 
+Weekly Discharged                          Represents the number of indivdiuals who are discharge from nusring unit each week.
+Weekly Infected                            Represents the number of total infections in a specfic nursing unit. 
+Weeekly Recovered                          Represents the number of total recoveryed patients in a specfic nursing unit. 
 
 

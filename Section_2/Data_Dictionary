@@ -1,7 +1,19 @@
-Section 1: Infection and Transmission Status
+Data Dictionary 
+
+ ODE  and DRAM Paramters 
+
+Paramter Name             Description                                                                        Baseline Value Use din Study Simulation   
+
+Λ_(S_N)             Admission rates of patients who admit substance use at time t.                                          10      
+Λ_(I_N)             Adimission rates of patients who admit substance use and also are infectioous.                           1
+Λ_(𝑆_𝐹 )            Adimission rates of patients who do not admit substance use at time t.                                   10 
+Λ_(𝐼_𝐹 )            Adimission rates of patients who do not admit substance use and also are infectioous.                    1
+𝛾                   Recvoery rates for infected patients.                                                                    0.1
+𝜇_N                 Discharge rates for substance using patients.                                                            0.01
+𝜇_𝐹                 Discharge rates for substance free patients.                                                             0.01
+𝜎                   HCW contamination rate from infected patients.                                                           0.1
+𝛿                   HCW decontaimation rates.                                                                                0.1 
+𝜆_N                 Transmision rates for substance using patients.                                                          0.01
+𝜆_𝐹                 Transmission rates for susbtance free patients.                                                          0.01
 
 
-
-Section 2: Parameter Table 
-
-Gamma 
